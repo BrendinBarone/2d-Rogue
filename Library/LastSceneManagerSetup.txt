@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SaveAS-vid-enemy-complete.unity
+  isLoaded: 1
+  isActive: 1
